@@ -7,7 +7,7 @@
 
 7月中旬，就有传言，PigchaProxy加速器的管理员出现了问题，引发了PigchaVPN疑似跑路倒闭的的传言。
 
-9月初，PigchaProxy加速器最新的官网 (www.pigcha.com) 彻底无法访问了
+9月初，PigchaProxy加速器最新的官网 (www.pigcha.com) 彻底无法访问了。
 
 客户端也无法登陆。全部节点也不能用了，可以确定PigchaProxy加速器跑路倒闭了，非常可惜的一家机场倒闭了，对于PigchaProxy用户的损失是巨大的。
 
