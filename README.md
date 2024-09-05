@@ -11,6 +11,3 @@
 
 为了防止pigcha加速器梯子出现突发技术故障和可能跑路倒闭情况，我们强烈推荐一款高速稳定的机场梯子 – DOVE加速器。作为备选替代方案，当pigcha加速器不能用时，DOVE加速器的平替可以确保您的网络使用不受影响。
 
-<!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>加速器名称</strong></td><td><strong>产品优势</strong></td><td><strong>免费试用</strong></td><td><strong>官网地址</strong></td></tr><tr><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">DOVE加速器</a></strong></td><td>新手必备一键连接，最稳定的上外网梯子工具</td><td>注册账户，即可试用4小时</td><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">点击注册</a></strong></td></tr></tbody></table></figure>
-<!-- /wp:table -->
